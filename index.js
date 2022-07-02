@@ -26,6 +26,6 @@ let myfunc = setInterval(function() {
     document.getElementById("mins").innerHTML = ""
     document.getElementById("days").innerHTML = ""
     document.getElementById("end").innerHTML = "TIME'S UP!! MERRY XMAS!!"
-    document.getElementById("end").innerHTML = "時間到了!! 聖誕節快樂!!"
+    // document.getElementById("end").innerHTML = "時間到了!! 聖誕節快樂!!"
   }
 }, 1000);
